@@ -13,6 +13,7 @@ leon
 ratzke
 nobody
 robin
+frölke
 seemann
 Vivi
 Zebra
