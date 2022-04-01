@@ -2,6 +2,7 @@
 hofer
 jamel
 jan
+schmidt
 Justin
 Guese
 leon
