@@ -1,4 +1,3 @@
-print("Hello W0rld")
 #Namen in alphabetischer Reihenfolge
 print("Adem Jabri ")
 print("andré")
@@ -8,3 +7,5 @@ print("Cebrián Schwarz, Elía")
 print("Josua")
 print("Nidhal")
 print("Rafael")
+
+
