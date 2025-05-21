@@ -5,5 +5,4 @@ print("Arwin")
 print("Elía")
 print("Nidhal")
 print("Rafael")
-print("Nidhal")
 
