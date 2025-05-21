@@ -1,4 +1,5 @@
-﻿#Namen in alphabetischer Reihenfolge
+﻿print("Hello World")
+#Namen in alphabetischer Reihenfolge
 print("Adem Jabri ")
 print("andré")
 print("Arwin")
